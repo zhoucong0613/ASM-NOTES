@@ -23,7 +23,7 @@ sudo apt install dosbox
 
 ## 安装 masm
 
-为了方便大家下载，我在 github 上上传了一份(见 software 目录)，下载地址为：[git@github.com:zhoucong0613/ASM-NOTES.git](git@github.com:zhoucong0613/ASM-NOTES.git)。
+为了方便大家下载，我在 github 上上传了一份(见 software 目录)，下载地址为：[https://github.com/zhoucong0613/ASM-NOTES.git](https://github.com/zhoucong0613/ASM-NOTES.git)。
 这个是 masm5.0 版本的，里面已经集成了 debug.exe。如果需要其它版本可自行在网上搜索下载。
 
 下载完成后在终端执行 `dosbox` 启动 dosbox，启动后执行 `mount c /the_directory_of_masm` 将 masm 所在目录挂载为 c 盘。
