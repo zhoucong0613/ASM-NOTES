@@ -27,7 +27,7 @@ sudo apt install dosbox
 这个是 masm5.0 版本的，里面已经集成了 debug.exe。如果需要其它版本可自行在网上搜索下载。
 
 下载完成后在终端执行 `dosbox` 启动 dosbox，启动后执行 `mount c /the_directory_of_masm` 将 masm 所在目录挂载为 c 盘。
-the\_directory\_of\_masm 请根据实际情况替换。为了避免每次启动都手动执行这个命令，可以把它加在 ~/.dosbox/dosbox-0.74.conf
+the\_directory\_of\_masm 请根据实际情况替换。为了避免每次启动都手动执行这个命令，可以把它加在 ~/.dosbox/dosbox-0.73.conf
 的 [autoexec] 节中。
 
 ## 使用 masm
